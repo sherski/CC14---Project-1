@@ -1,0 +1,113 @@
+.Body{
+    color: #FFF5E0
+}
+.Ishier{
+    border-radius: 25px;
+    background: #2D3250;
+    padding: 10px;
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+      
+
+}
+.Tittle {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    margin: auto;
+    border-radius: 15px 50px 30px;
+    background: #2D3250;
+    padding: 10px; 
+    width: 500px;
+    height: 30px; 
+    text-align: center;
+    
+  } 
+.Introduction{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    border-radius: 15px 50px 30px;
+    background: #2D3250;
+    padding: 10px; 
+    width: 145px;
+    height: 30px; 
+
+  }
+.My_Introduction {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    
+  }
+.My_Philosophy_in_Life{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    border-radius: 15px 50px 30px;
+    background: #2D3250;
+    padding: 10px; 
+    width: 250px;
+    height: 30px; 
+}
+.Philosophy_life{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+.My_Favorite_Book{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    border-radius: 15px 50px 30px;
+    background: #2D3250;
+    padding: 10px;
+    
+    width: 200px;
+    height: 30px; 
+}
+.Favorite_Book{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+.My_Hobbies{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    border-radius: 15px 50px 30px;
+    background: #2D3250;
+    padding: 10px; 
+    width: 140px;
+    height: 30px; 
+}
+
+.Hobby_list{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Interest{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    border-radius: 15px 50px 30px;
+    background: #2D3250;
+    padding: 10px; 
+    width: 90px;
+    height: 30px; 
+}
+.Interest_List{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Link a:link, a:visited{
+    
+    background-color: #2D3250;
+    color: white;
+    border-radius: 15px 50px 30px;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+      }
+.Link a:hover, a:active {
+        background-color: #7077A1;
+        color: white;
+      }
+
